@@ -6,3 +6,6 @@ Based on Adapta GTK theme by Adapta Project (https://github.com/adapta-project/a
 Requires the Noto fonts.
 
 For screenshots see the screenshots folder.
+
+# Installation
+Copy the contents of this directory to $HOME/.fluxbox/styles
