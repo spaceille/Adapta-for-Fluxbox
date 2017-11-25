@@ -5,6 +5,8 @@ Based on the Adapta Openbox theme by the Adapta Project (https://github.com/adap
 
 Requires the Noto fonts.
 
+Contains both a large and a small variant (Adapta-Eta).
+
 For screenshots see the screenshots folder.
 
 # Installation
